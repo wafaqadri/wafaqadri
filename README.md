@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hey, I'm Wafa! 👋</h1>
 
-<!--
-**wafaqadri/wafaqadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b><h2>✨ About me</h2></b>
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm exploring technology with a growing interest in cybersecurity, data analysis, programming, IoT, cloud computing, digital forensics, and ethical hacking. I'm still learning, experimenting, and building my skills along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b><h2>📚 I'm currently learning:</h2></b>
+
+- Cybersecurity & ethical hacking
+- Data analysis
+- Programming fundamentals
+- IoT & IoT security
+- Cloud computing
+- Digital forensics
