@@ -1,6 +1,9 @@
 <h1>Hey, I'm Wafa! 👋</h1>
 
 <b><h2>✨ About me</h2></b>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/networkingsetup.gif" width="400" alt="Networking setup GIF" />
+</p>
 
 Welcome to my GitHub! I'm exploring technology with a growing interest in cybersecurity, data analysis, programming, IoT, cloud computing, digital forensics, and ethical hacking. I'm still learning, experimenting, and building my skills along the way.
 
