@@ -1,4 +1,6 @@
-<h1>Hey, I'm Wafa! 👋</h1>
+<h1 align="center">
+  Hey, <img src="https://media1.tenor.com/m/TweJ-FuVtXMAAAAd/cat-spin.gif" width="35"> I'm Wafa!
+</h1>
 
 <b><h2>✨ About me</h2></b>
 <p align="center">
