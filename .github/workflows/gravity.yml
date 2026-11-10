@@ -20,8 +20,11 @@ jobs:
       - uses: flycran/github-gravity@v1
         with:
           username: wafaqadri
-          text: GitHub Gravity
+          text: Wafa Qadri
           output-path: deploy/gravity.svg
+          text-color: '#e8590c'
+          shape: square
+          font-size: 80
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
